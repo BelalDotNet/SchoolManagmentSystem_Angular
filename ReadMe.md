@@ -1,3 +1,4 @@
+
 Hello Everyone!
 This is me Md. Ballal Hossain,and two other Project members are
 Md.Mehedi Hasan and Monjurul Alam.
@@ -76,6 +77,9 @@ Project Member :
 
 ===================================================================
 Project Duration : 45 Days
+
+
+![](https://github.com/BelalDotNet/SchoolManagmentSystem_Angular/blob/master/Sample_Pic.png)
 
 
 	
