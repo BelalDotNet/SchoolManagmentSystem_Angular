@@ -76,7 +76,7 @@ Project Member :
 		: Md. Monjurul Alam
 
 ===================================================================
-Project Duration : 45 Days
+Project Duration :Initially 45 Days.
 
 
 ![](https://github.com/BelalDotNet/SchoolManagmentSystem_Angular/blob/master/Sample_Pic.png)
