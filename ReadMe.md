@@ -1,7 +1,6 @@
 
 Hello Everyone!
-This is me Md. Ballal Hossain,and two other Project members are
-Md.Mehedi Hasan and Monjurul Alam.
+This is me Md. Ballal Hossain,
 Mail : mdbillal73@gmail.com
 Cell : 01815716388
 
@@ -14,8 +13,6 @@ Round No-38,
 Course Name: ESAD-CS(C#.NET)
 TSP : NVIT, Chattogram, Bangladesh.
 Trainee ID 1245968
-Trainee ID 1245091
-Trainee ID 1245178
 =====================================================
 
 Project Name : School Management System
@@ -68,12 +65,6 @@ System Users : 06
 	     04 : Parent
 	     05 : Student 
              06 : anonymous user
-
-===================================================================
-Project Member : 
-		: md. Ballal Hossain
-		: md. Mehedi Hasan
-		: Md. Monjurul Alam
 
 ===================================================================
 Project Duration :Initially 45 Days.
